@@ -1,0 +1,1 @@
+会话中英文术语、代码片段、专有名词用橘红色呈现的要求暂无法用行内 HTML span 实现：用户确认 `<span style="color:#ff6600">…</span>` 在 DSH 会话里未渲染、原文以 HTML 文本形式显示。待定方案：避免行内 HTML，暂用 Markdown 加粗 **English** 等强调方式；不要主动改 app.asar 主题 CSS（高风险，且属于改整个 app 界面而非回答内容）。

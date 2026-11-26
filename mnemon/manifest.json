@@ -2,7 +2,7 @@
   "format": "mnemonpack",
   "version": 1,
   "scope": "full",
-  "exportedAt": "2026-11-25T02:53:41.629Z",
+  "exportedAt": "2026-11-26T07:14:50.653Z",
   "source": {
     "plugin": "dsh-mnemon",
     "pluginVersion": "0.5.55"
@@ -16,8 +16,8 @@
     {
       "component": "runtime",
       "files": 3,
-      "bytes": 36,
-      "items": 0
+      "bytes": 1248,
+      "items": 1
     },
     {
       "component": "documents",
@@ -36,7 +36,7 @@
     "channel": "git",
     "branch": "mnemon-sync",
     "subdir": "mnemon/",
-    "pushedAt": "2026-11-25T02:53:41.629Z",
+    "pushedAt": "2026-11-26T07:14:50.653Z",
     "machine": {
       "id": "c6050df5-d15f-430f-95c0-d958715fe5d1",
       "label": "macdeMacBook-Pro.local",
